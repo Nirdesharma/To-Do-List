@@ -1,0 +1,32 @@
+.add-item{
+    background-color: rgb(24, 24, 40);
+    width: 30vw;
+    height:50vh;
+    text-align: center;
+}
+.h1{
+    padding-top: 15px;
+}
+form input{
+    display: flex;
+    padding: 10px;
+    margin: 10px 0 0 84px;
+    width:250px;
+}
+.btns{
+    margin-top: 10px;
+}
+.btns button{
+    padding: 20px;
+    margin: 3px;
+    
+}
+#save-btn{
+    background-color: rgb(77, 202, 73);
+}
+#clear-btn{
+    background-color: rgb(101, 126, 216);
+}
+#cancel-btn{
+    background-color: rgb(251, 83, 83);
+}

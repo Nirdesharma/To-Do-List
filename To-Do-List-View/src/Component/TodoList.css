@@ -1,0 +1,32 @@
+.tbl{
+    margin:0 0 0 300px;
+    background-color:  rgb(24, 24, 40);
+}
+
+.tbl-body:hover{
+    background-color: white;
+    color:black;
+}
+.tbl-hd{
+    
+    padding: 10px;
+}
+.tbl-body td a{
+    padding: 5px;
+}
+.tdata{
+    padding: 10px;
+}
+#checkbox{
+   height: 20px;
+   width: 20px;
+   margin-left: 25px;
+}
+.dlt:hover{
+    color:red;
+    cursor: pointer;
+}
+.edt:hover{
+    color:green;
+    cursor: pointer;
+}
